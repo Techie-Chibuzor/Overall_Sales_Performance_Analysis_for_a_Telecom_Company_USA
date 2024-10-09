@@ -139,6 +139,25 @@ ORDER BY year ASC
 
 ```
 
+
+
+<img width="960" alt="CUSTOMER_BEHAVIOUR_SCREENSHOT" src="https://github.com/user-attachments/assets/7efa37ca-5dee-4f35-8b99-50f7e834417a">
+
+<img width="960" alt="CHANNEL PERFORMANCE SCREENSHOT" src="https://github.com/user-attachments/assets/1bc90ce6-d5ae-4d4b-9af2-45e1c5fe849c">
+
+<img width="960" alt="REGIONAL PERFORMANCE SCREENSHOT" src="https://github.com/user-attachments/assets/505daede-58a6-413a-bdd5-bbb7db47503c">
+
+
+
+<img width="960" alt="YEARLY REVENUE TREND PERFORMANCE" src="https://github.com/user-attachments/assets/9b60bb0b-de1c-4cfc-9511-d3a17ca62585">
+
+
+
+
+
+
+
+
 ## Results and  Findings: 
 
 The Analysis Results is summarised as follows: 
